@@ -18,4 +18,4 @@ You should create one R script called run_analysis.R that does the following.
 * Third, you will find two output files are generated in the current working directory:
   - merged_data.txt (8.15 Mb): it contains a data frame called cleanedData with 10299*68 dimension.
   - data_with_means.txt (220 Kb): it contains a data frame called result with 180*68 dimension.
-* Finally, use data <- read.table("data_with_means.txt") command in RStudio to read the file. 
+* Finally, use data <- read.table("tidy_data.txt") command in RStudio to read the file. 

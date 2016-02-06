@@ -78,5 +78,5 @@ for(i in 1:subjectLen) {
   } 
 } 
 head(result) 
-write.table(result, "data_with_means.txt")  
+write.table(result, "tidy_data.txt")  
 
